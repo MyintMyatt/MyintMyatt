@@ -1,7 +1,10 @@
 # 💫 About Me:
 a passionate programmer who interests about designing clean, scalable systems and dedicated to writing detail-oriented, efficient code
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MyintMyatt&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nyi Nyi Myint Myat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nyi-nyi-myint-myat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nnmm5122004@gmail.com) 
