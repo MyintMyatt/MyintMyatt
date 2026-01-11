@@ -1,13 +1,14 @@
+# Hello 👋 I'm Nyi Nyi Myint Myat (Orion),
+## Software engineer
 # 💫 About Me:
-a passionate programmer who interests about designing clean, scalable systems and dedicated to writing detail-oriented, efficient code
+I'm a passionate developer who interests about designing clean, scalable **backend systems , mobile app devlopment** and dedicated to writing detail-oriented, efficient code.
+- 🧠 Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**
+- 🚀 When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MyintMyatt&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nyi Nyi Myint Myat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nyi-nyi-myint-myat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nnmm5122004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nyi-nyi-myint-myat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nnmm5122004@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
