@@ -2,7 +2,7 @@
 ## Software engineer
 # 💫 About Me:
 I'm a passionate developer who interests about designing clean, scalable **backend systems , mobile app devlopment** and dedicated to writing detail-oriented, efficient code.
-- 🧠 Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**
+- 🧠 Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
 - 🚀 When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
 
 
