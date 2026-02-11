@@ -24,3 +24,38 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 [![](https://visitcount.itsvg.in/api?id=MyintMyatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+<p align="center">
+<img width="45%" src ="https://github-readme-stats.vercel.app/api?username=MyintMyatt&theme=react&show_icons=true&hide_border=true&count_private=true%22>
+<img width="45%" src ="https://github-readme-streak-stats.herokuapp.com/?user=MyintMyatt&theme=react&hide_border=true%22>
+</p>
+ 
+<p align="center">
+<a href="https://github.com/MyintMyatt">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MyintMyatt&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true%22
+      alt="MyintMyatt :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MyintMyatt&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true%22
+      alt="MyintMyatt :: Top Langs by commit" />
+</a>
+</p>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MyintMyatt&label=Profile%20views&color=0e75b6&style=flat%22 alt="orion" /> </p>
+ 
+ 
+<br/>
+ 
+<!-- <h3 align="left">📫 Reach me on</h3>
+<p align="left">
+<a href="https://app.daily.dev/vinn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/vinn" height="30" width="40" /> </a>
+<a href="https://x.com/VinnnDev" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/VinnnDev" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/thant-htoo-aung-/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thant-htoo-aung-/" height="30" width="40" /> </a>
+<a href="https://stackoverflow.com/users/22221665/vinn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22221665/vinn" height="30" width="40" /> </a>
+<a href="https://leetcode.com/u/Vinnn_96" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/u/Vinnn_96" height="30" width="40" /> </a>
+</p>
+ 
+<br/>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MyintMyatt)](https://github.com/MyintMyatt/github-profile-trophy)
+  -->
