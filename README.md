@@ -28,7 +28,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 
 
 
-<p align="center">
+<!-- <p align="center">
 <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=MyintMyatt&theme=react&show_icons=true&hide_border=true&count_private=true%22>
 <img width="45%" src ="https://github-readme-streak-stats.herokuapp.com/?user=MyintMyatt&theme=react&hide_border=true%22>
 </p>
@@ -45,7 +45,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MyintMyatt&label=Profile%20views&color=0e75b6&style=flat%22 alt="orion" /> </p>
  
  
-<br/>
+<br/> -->
  
 <!-- <h3 align="left">📫 Reach me on</h3>
 <p align="left">
