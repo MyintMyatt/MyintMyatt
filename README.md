@@ -8,12 +8,16 @@
 </picture>
 
 ###
+<br/>
+<hr/>
 
 I'm a passionate developer who interests about designing clean, scalable **backend systems , mobile app devlopment** and dedicated to writing detail-oriented, efficient code.
 - Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
 - When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
 
 ###
+<br/>
+<hr/>
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
@@ -67,6 +71,8 @@ I'm a passionate developer who interests about designing clean, scalable **backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
 </div>
 
+<br/>
+<hr/>
 ###
 
 <div data-importer="socials" align="center">
@@ -83,6 +89,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 ###
+<hr/>
 
 <br clear="both">
 <div data-importer="stats" align="center">
@@ -93,6 +100,8 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 ###
+<br/>
+<hr/>
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MyintMyatt.MyintMyatt&"  />
