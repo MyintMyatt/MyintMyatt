@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey,👋 I'm Nyi Nyi Myint Myat (Orion),</h1>
+<h1 data-importer="text" align="center">Nyi Nyi Myint Myat (Orion)</h1>
 
 ###
 <picture>
@@ -9,13 +9,11 @@
 
 ---
 
-## Software engineer
-# 💫 About Me:
 I'm a passionate developer who interests about designing clean, scalable **backend systems , mobile app devlopment** and dedicated to writing detail-oriented, efficient code.
-- 🧠 Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
-- 🚀 When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
+- Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
+- When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
 
-###
+---
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
@@ -69,7 +67,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
 </div>
 
-###
+---
 
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/orionnmm" target="_blank">
@@ -84,7 +82,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
@@ -93,7 +91,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
   <!-- <img src="https://raw.githubusercontent.com/MyintMyatt/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=MyintMyatt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-  [![Top Langs](https://vercel.app)](https://github.com/MyintMyatt/github-readme-stats)
+  [![Top Langs](https://vercel.app)](https://raw.githubusercontent.com/MyintMyatt/wakatime-svg/output/generated/languages.svg)
 
   <!-- <img src="https://raw.githubusercontent.com/MyintMyatt/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
   <img src="https://raw.githubusercontent.com/MyintMyatt/MyintMyatt/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -113,7 +111,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div> -->
 
-###
+
 
 <!-- <div data-importer="music" align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
