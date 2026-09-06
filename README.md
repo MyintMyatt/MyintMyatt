@@ -1,8 +1,15 @@
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="MyintMyatt's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-<p data-importer="text" align="left">I'm Nyi Nyi Myint Myat (Orion) who is a passionate developer who interests about designing clean, scalable backend systems , mobile app devlopment and dedicated to writing detail-oriented, efficient code.<br><br>    🧠 Currently learning Apache kafka, grpc, microservice design pattern,Spring boot and Golang.<br>    🚀 When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.</p>
+---
+
+<p data-importer="text" align="left">I'm **Nyi Nyi Myint Myat** _(Orion)_ who is a passionate developer who interests about designing clean, scalable backend systems , mobile app devlopment and dedicated to writing detail-oriented, efficient code.<br><br>    🧠 Currently learning _Apache kafka, grpc, microservice design pattern,Spring boot and Golang_.<br>    🚀 When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.</p>
 
 ###
 
@@ -78,20 +85,20 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MyintMyatt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MyintMyatt/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/MyintMyatt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://raw.githubusercontent.com/MyintMyatt/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=MyintMyatt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/MyintMyatt/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/MyintMyatt/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
   <img src="https://raw.githubusercontent.com/MyintMyatt/MyintMyatt/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<picture data-importer="pacman">
+<!-- <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyintMyatt/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyintMyatt/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MyintMyatt/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+</picture> -->
 
 ###
 <!-- 
