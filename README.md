@@ -7,6 +7,8 @@
   <img alt="MyintMyatt's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<br/>
+
 ##
 
 <br/>
@@ -16,11 +18,12 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 - Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
 - When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
 
+<br/>
+
 ##
 
 <br/>
 
-## Tech Stack
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
@@ -76,6 +79,8 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 <br/>
 
 ##
+
+<br/>
 
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/orionnmm" target="_blank">
