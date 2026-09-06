@@ -7,18 +7,20 @@
   <img alt="MyintMyatt's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-###
+##
+
 <br/>
 
-### About Me
+## About Me
 I'm a passionate developer who interests about designing clean, scalable **backend systems , mobile app devlopment** and dedicated to writing detail-oriented, efficient code.
 - Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
 - When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
 
-###
+##
+
 <br/>
 
-### Tech Stack
+## Tech Stack
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
@@ -89,6 +91,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 <br/>
+
 ##
 
 <br clear="both">
@@ -100,6 +103,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 <br/>
+
 ##
 
 <div data-importer="profile-views" align="center">
