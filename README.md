@@ -9,16 +9,16 @@
 
 ###
 <br/>
-<hr style="height:1px; border:none; background-color:#e1e4e6;" />
 
+### About Me
 I'm a passionate developer who interests about designing clean, scalable **backend systems , mobile app devlopment** and dedicated to writing detail-oriented, efficient code.
 - Currently learning **Apache kafka, grpc, microservice design pattern,Spring boot and Golang**.
 - When I've got time to kill, I like building mobile apps and designing sleek, modern UIs with smooth animations.
 
 ###
 <br/>
-<hr style="height:1px; border:none; background-color:#e1e4e6;" />
 
+### Tech Stack
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
@@ -72,8 +72,9 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 <br/>
-<hr style="height:1px; border:none; background-color:#e1e4e6;" />
-  
+
+##
+
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/orionnmm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -88,7 +89,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 <br/>
-<hr style="height:1px; border:none; background-color:#e1e4e6;" />
+##
 
 <br clear="both">
 <div data-importer="stats" align="center">
@@ -99,7 +100,7 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 </div>
 
 <br/>
-<hr style="height:1px; border:none; background-color:#e1e4e6;" />
+##
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MyintMyatt.MyintMyatt&"  />
