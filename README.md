@@ -102,9 +102,9 @@ I'm a passionate developer who interests about designing clean, scalable **backe
 <br clear="both">
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=MyintMyatt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=MyintMyatt&layout=compact&langs_count=10&theme=transparent">
+  <!-- <a href="https://github-stats-extended.vercel.app/api/top-langs?username=MyintMyatt&layout=compact&langs_count=10&theme=transparent">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MyintMyatt&layout=compact&langs_count=10&theme=transparent" height="150" alt="GitHub Stats" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
